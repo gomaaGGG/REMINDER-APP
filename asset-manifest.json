@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/REMINDER-APP/static/css/main.e6d481d3.chunk.css",
+    "main.js": "/REMINDER-APP/static/js/main.8fbf102f.chunk.js",
+    "main.js.map": "/REMINDER-APP/static/js/main.8fbf102f.chunk.js.map",
+    "runtime-main.js": "/REMINDER-APP/static/js/runtime-main.519990a0.js",
+    "runtime-main.js.map": "/REMINDER-APP/static/js/runtime-main.519990a0.js.map",
+    "static/css/2.821458bd.chunk.css": "/REMINDER-APP/static/css/2.821458bd.chunk.css",
+    "static/js/2.5b776772.chunk.js": "/REMINDER-APP/static/js/2.5b776772.chunk.js",
+    "static/js/2.5b776772.chunk.js.map": "/REMINDER-APP/static/js/2.5b776772.chunk.js.map",
+    "index.html": "/REMINDER-APP/index.html",
+    "precache-manifest.2092a6a999c2b9d0b666929858b506cb.js": "/REMINDER-APP/precache-manifest.2092a6a999c2b9d0b666929858b506cb.js",
+    "service-worker.js": "/REMINDER-APP/service-worker.js",
+    "static/css/2.821458bd.chunk.css.map": "/REMINDER-APP/static/css/2.821458bd.chunk.css.map",
+    "static/css/main.e6d481d3.chunk.css.map": "/REMINDER-APP/static/css/main.e6d481d3.chunk.css.map",
+    "static/js/2.5b776772.chunk.js.LICENSE": "/REMINDER-APP/static/js/2.5b776772.chunk.js.LICENSE",
+    "static/media/logo.png": "/REMINDER-APP/static/media/logo.9bd2dd25.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.519990a0.js",
+    "static/css/2.821458bd.chunk.css",
+    "static/js/2.5b776772.chunk.js",
+    "static/css/main.e6d481d3.chunk.css",
+    "static/js/main.8fbf102f.chunk.js"
+  ]
+}
