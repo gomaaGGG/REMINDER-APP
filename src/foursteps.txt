@@ -1,0 +1,4 @@
+  -- action types  such as (add,remove,update,delete)
+  --action creator  function that return action 
+  --reducer--action talk to reducer with dispatch finction that take 
+  --jsx 
